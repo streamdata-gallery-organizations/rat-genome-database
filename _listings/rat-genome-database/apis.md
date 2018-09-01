@@ -6,8 +6,8 @@ image: ""
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Rat Genome Database
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-31"
+modified: "2018-08-31"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rat-genome-database/master/_listings/rat-genome-database/apis.md
 specificationVersion: "0.14"
 apis:
